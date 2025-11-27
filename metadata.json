@@ -1,0 +1,5 @@
+{
+  "name": "Black Hole Genesis",
+  "description": "An interactive astrophysical simulation demonstrating the lifecycle of stars and the formation of black holes. Features real-time mass manipulation, 3D visualizations of spacetime distortion, and AI-powered educational commentary.",
+  "requestFramePermissions": []
+}
